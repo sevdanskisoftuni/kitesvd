@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 780" role="img" aria-labelledby="title description">
+  <title id="title">Цветове и форми за персонализирани хвърчила</title>
+  <desc id="description">Работна маса в ателие с цветни платна за хвърчила в ромбовидни, триъгълни и опашати форми.</desc>
+  <defs>
+    <linearGradient id="backdrop" x2="0" y2="1">
+      <stop stop-color="#e4f1ef"/>
+      <stop offset="1" stop-color="#f6e7d2"/>
+    </linearGradient>
+    <linearGradient id="surface" x2="0" y2="1">
+      <stop stop-color="#bd8053"/>
+      <stop offset="1" stop-color="#80513b"/>
+    </linearGradient>
+    <filter id="shadow" x="-25%" y="-25%" width="150%" height="160%">
+      <feDropShadow dx="0" dy="14" stdDeviation="12" flood-color="#423a39" flood-opacity=".2"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="780" fill="url(#backdrop)"/>
+  <rect x="0" y="0" width="1200" height="438" fill="#f8f2e7"/>
+  <path d="M0 438h1200v342H0z" fill="#d3b38f"/>
+  <rect x="72" y="58" width="266" height="288" rx="14" fill="#fff" filter="url(#shadow)"/>
+  <rect x="89" y="75" width="232" height="254" rx="7" fill="#b9e1eb"/>
+  <path d="M205 78v248M92 202h226" stroke="#fff" stroke-width="12"/>
+  <circle cx="272" cy="125" r="32" fill="#f6d16e"/>
+  <path d="M92 285q50-65 103-5t126-18v66H92z" fill="#84b88b"/>
+  <rect x="420" y="74" width="328" height="230" rx="16" fill="#e8ddcb"/>
+  <path d="M442 96h284v188H442z" fill="#f7ebd8"/>
+  <path d="M461 250l74-110 65 85 48-57 60 82z" fill="#91b9a2"/>
+  <path d="M555 180l-29-40-26 39zM680 199l-40-31-31 45z" fill="#e6a47a"/>
+  <rect x="818" y="91" width="282" height="28" rx="14" fill="#caa782"/>
+  <rect x="839" y="134" width="240" height="28" rx="14" fill="#caa782"/>
+  <rect x="865" y="177" width="188" height="28" rx="14" fill="#caa782"/>
+  <circle cx="858" cy="264" r="22" fill="#e66c62"/>
+  <circle cx="921" cy="264" r="22" fill="#efb84e"/>
+  <circle cx="984" cy="264" r="22" fill="#58a7a0"/>
+  <circle cx="1047" cy="264" r="22" fill="#627bb0"/>
+  <path d="M0 488h1200" stroke="#fff3df" stroke-width="9" opacity=".8"/>
+  <path d="M58 480h1085l-45 68H104z" fill="url(#surface)" filter="url(#shadow)"/>
+  <path d="M117 546h58v206h-58zM1023 546h58v206h-58z" fill="#76503c"/>
+  <g filter="url(#shadow)">
+    <path d="M243 425l138-145 139 145-139 145z" fill="#e85f62" stroke="#fffaf0" stroke-width="11"/>
+    <path d="M243 425l138-145v145z" fill="#f1bd4f"/>
+    <path d="M381 425v145l139-145z" fill="#75b9ad"/>
+    <path d="M381 280v290" stroke="#fff8e8" stroke-width="9"/>
+  </g>
+  <g filter="url(#shadow)">
+    <path d="M577 453l101-177 102 177z" fill="#657fbd" stroke="#fffaf0" stroke-width="10"/>
+    <path d="M577 453h203l-101 111z" fill="#ed8a66"/>
+    <path d="M678 276v288" stroke="#fff8e8" stroke-width="8"/>
+  </g>
+  <g filter="url(#shadow)">
+    <path d="M884 414l102-107 105 107-105 108z" fill="#69ad83" stroke="#fffaf0" stroke-width="9"/>
+    <path d="M884 414h207M986 307v215" fill="none" stroke="#f8efd9" stroke-width="7"/>
+    <path d="M986 522q-10 26 13 39t-10 38q-17 13 1 32" fill="none" stroke="#e8676b" stroke-width="8"/>
+    <path d="M982 566l-19-9 5 21zM984 609l-19-8 5 21z" fill="#e8676b"/>
+  </g>
+  <path d="M151 474l54-26 52 26-53 28z" fill="#f4d886"/>
+  <path d="M166 473l39-19 38 19-39 21z" fill="#f1a184"/>
+  <path d="M789 489l42-46 43 46-43 45z" fill="#f1c04d" opacity=".92"/>
+  <path d="M790 489h84M831 443v91" stroke="#fff4df" stroke-width="5"/>
+  <path d="M1102 450l16 31-31-16z" fill="#e5b755"/>
+  <path d="M114 602h928" stroke="#d9a577" stroke-width="4" opacity=".7"/>
+</svg>

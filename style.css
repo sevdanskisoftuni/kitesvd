@@ -732,7 +732,7 @@ textarea {
 
 .gallery-photo img {
   width: 100%;
-  aspect-ratio: 4 / 3;
+  aspect-ratio: 20 / 13;
   object-fit: cover;
   background: linear-gradient(135deg, rgba(125, 211, 252, 0.2), rgba(139, 92, 246, 0.12));
   transition: transform 0.35s ease;
@@ -749,6 +749,13 @@ textarea {
 .gallery-photo figcaption strong,
 .gallery-photo figcaption small {
   display: block;
+}
+
+.gallery-photo figcaption p {
+  margin: 0;
+  color: rgba(28, 35, 64, 0.72);
+  font-size: 0.9rem;
+  line-height: 1.6;
 }
 
 .gallery-photo figcaption strong {
